@@ -1,7 +1,13 @@
 a = 12
 b = "Piyush"
-c = 12.5
+c = 15.5
 
 print(type(a))
 print(type(b))
 print(type(c))
+
+
+print(str(a))
+print(int(c))
+print(bool(b))
+# print(int(b))
